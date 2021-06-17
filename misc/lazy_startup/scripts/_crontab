@@ -1,0 +1,3 @@
+# Add this line to crontab, with 'crontab -e':
+@reboot sleep 60; env DISPLAY=:0 /<home-folder>/scripts/lazy_startup.sh > /tmp/lazy_startup.log 2>&1
+

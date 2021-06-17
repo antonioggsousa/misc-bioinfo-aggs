@@ -1,0 +1,52 @@
+scRNA-seq Seurat course: https://scrnaseq-course.cog.sanger.ac.uk/website/seurat-chapter.html
+
+Seurat to Monocle 3: https://github.com/satijalab/seurat/issues/1658
+
+https://bioconductor.github.io/BiocWorkshops/functional-enrichment-analysis-of-high-throughput-omics-data.html
+
+Biomart R: https://www.bioconductor.org/packages/devel/bioc/vignettes/biomaRt/inst/doc/biomaRt.html
+
+Orchestrating Single-Cell Analysis with Bioconductor: https://osca.bioconductor.org/
+
+SC3 package manual: http://bioconductor.org/packages/release/bioc/vignettes/SC3/inst/doc/SC3.html
+
+Data Analysis in Genome Biology: https://girke.bioinformatics.ucr.edu/GEN242/index.html
+
+scRNA-seq: https://broadinstitute.github.io/2019_scWorkshop/
+
+data analysis from MINION nanopore: http://porecamp.github.io/2017/
+
+Clustering: 
+   + https://bradleyboehmke.github.io/HOML/hierarchical.html
+
+   + https://www.statsandr.com/blog/clustering-analysis-k-means-and-hierarchical-clustering-by-hand-and-in-r/
+
+---
+
+DTU (Differential Transcript Usage): 
+
+   + Sleuth: https://hbctraining.github.io/DGE_workshop_salmon/lessons/09_sleuth.html  
+
+   + Tutorial: https://github.com/griffithlab/rnaseq_tutorial
+
+---
+
+Bioinformatic introductory tutorials: 
+
+   + https://www.hadriengourle.com/tutorials/
+
+---
+
+PacBio training material
+
+   + https://github.com/PacificBiosciences/Bioinformatics-Training/wiki
+
+---
+
+RNA-seq 
+
+   + [source](https://hbctraining.github.io/DGE_workshop_salmon/lessons/05_DGE_DESeq2_analysis2.html).
+
+   + Other good resource: [source](http://www.sthda.com/english/wiki/rna-seq-differential-expression-work-flow-using-deseq2).
+
+
